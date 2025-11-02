@@ -1,0 +1,7 @@
+# Příklad souboru s přihlašovacími údaji pro OpenVPN
+# Formát: první řádek = username, druhý řádek = password
+# Uložte soubor a nastavte env var:
+# export OPENVPN_AUTH_FILE="/cesta/k/app/OPENVPN_AUTH_FILE.example"
+
+35UBR6ymSYCmbHHR73BgFUg2
+xJWNwxp6eZXbYEDpUhJvcBZY
